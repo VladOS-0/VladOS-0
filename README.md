@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=VladOS-0&theme=midnight-purple&show_icons=true&border_color=600080&rank_icon=github&count_private=true&show=prs_merged_percentage&custom_title=My%Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=VladOS-0&theme=midnight-purple&show_icons=true&border_color=600080&count_private=true&show=prs_merged_percentage&custom_title=My%Languages" />  
   
   <!--<img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=VladOS-0&theme=midnight-purple&hide_border=true" />-->
   
